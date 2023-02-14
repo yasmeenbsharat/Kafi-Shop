@@ -425,3 +425,7 @@ visibility:hidden;
        opacity: 0;
     } 
 }
+.categories-desc p{
+    font-size: 20px;
+    color: #fc8019;
+}
