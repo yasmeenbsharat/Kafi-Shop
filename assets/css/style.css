@@ -437,11 +437,12 @@ visibility:hidden;
 .feedback-section{
     background-image: url('../images/feedback/footer-bg.png');
     height: 90vh;
-    background-attachment: fixed;
-   background-position: top;
-   z-index: 999;
+    z-index: 999;
    position: relative;
    padding-bottom: 200px;
+ 
+   margin-top: 5%;
+
   
 }
 ul{
@@ -611,13 +612,13 @@ footer .item{
 }
 
 footer .item img{
-   width: 100%;
+   width: 70%;
     
   
   
 }
 footer .item p{
-    width:81%;
+    width: 81%;
     color: #868c98;
     font-size: 16px;
     margin-bottom: 10px;
