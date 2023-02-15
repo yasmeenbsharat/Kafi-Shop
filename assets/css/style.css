@@ -435,7 +435,7 @@ visibility:hidden;
 
 /* start the feedback section*/
 .feedback-section{
-    background-image: url('../assets/images/feedback/footer-bg.png');
+    background-image: url('../assets/images/feedback/logo.jpeg');
     height: 90vh;
     background-attachment: fixed;
    background-position: top;
